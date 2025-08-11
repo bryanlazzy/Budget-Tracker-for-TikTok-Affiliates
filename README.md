@@ -1,4 +1,4 @@
-# 📈 TikTok Affiliate Budget Tracker
+# TikTok Affiliate Budget Tracker
 
 This repository contains the VBA (Visual Basic for Applications) source code for an Excel-based budget tracker. The tool is designed to help TikTok affiliates manage and track their daily, monthly, and yearly income and expenses with automated calculations and visual aids.
 
